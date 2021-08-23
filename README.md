@@ -1,1 +1,1 @@
-<img src=<h2>hs onerror=alert(0)>
+<img src= %3Cscript%3Ealert(0)%3C%2Fscript%3E onerror=alert(0)>
